@@ -1,7 +1,9 @@
 Flappy Bird Clone in Bevy
+
 A simple clone of the classic Flappy Bird game made using the Bevy game engine.
 
 🎮 Features
+
 Flappy Bird-style gameplay
 
 Bird sprite with gravity-based vertical movement
@@ -13,6 +15,7 @@ Collision detection with pipes and ground
 Automatic game reset on collision
 
 🛠️ Built With
+
 Rust
 
 Bevy Engine (version 0.15.0 — fill in your version)
